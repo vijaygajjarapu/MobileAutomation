@@ -1,0 +1,13 @@
+{
+  "iehpNumber": "12345678901200",
+  "emailAddress": "test@test.com",
+  "confirmEmailAddress": "test@test.com",
+  "password": "Sanjay#$4600",
+  "confirmPassword": "Sanjay#$4600",
+  "ssnOrPhone": "4212",
+  "accessCode": "TESTIE",
+  "uploadBaseURI": "https://api-cloud.browserstack.com/app-live/upload",
+  "answerField1": "abc",
+  "answerField2": "abcd",
+  "answerField3": "dabc"
+}
