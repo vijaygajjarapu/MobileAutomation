@@ -1,1 +1,1 @@
-# MobileAutomation
+mobile-automation-framework
